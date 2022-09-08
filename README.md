@@ -1,1 +1,1 @@
-# Simple Shell Project
+Group project on Simple UNIX shells
